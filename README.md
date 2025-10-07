@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Rifki Jaya Afandi (aka ikyyydev)
+# 👋 Hi, I'm Rifki Jaya Afandi (Rifki)
 
 🚀 **Software Engineer**  
 Always passionate about building, learning, and leveling up my craft—one project at a time.
@@ -44,5 +42,4 @@ Always passionate about building, learning, and leveling up my craft—one proje
 
 ---
 
-> “Lifelong learning” is my motto—let’s build something amazing together!
 
