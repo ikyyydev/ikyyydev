@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Rifki Jaya Afandi (Rifki)
 
 🚀 **Software Engineer**  
-Always passionate about building, learning, and leveling up my craft—one project at a time.
+Always passionate about building, learning, and leveling up my craft one project at a time.
 
 ---
 
 ## 💡 About Me
 
 - 🌱 **Lifelong learner** dedicated to mastering full-stack web development.
-- 💻 Focused on modern web tech—TypeScript, React, Next.js, Tailwind, and powerful databases.
+- 💻 Focused on modern web tech TypeScript, React, Next.js, Tailwind, and powerful databases.
 - 🛒 Proud builder of robust E-Commerce solutions.
 - 🌍 Based in Indonesia.
 
